@@ -2,19 +2,43 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+### Technical Skills: Python, SQL, Power Bi, AWS
 
-[Link to another page](./another-page.html).
+### Languages: Spanish (_Native_) , English (_Intermediate_)
 
-There should be whitespace between paragraphs.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## Education:
+**International business / Trade and Commerce | Universidad Autonóma de Nuevo León** (_Jan 2010 - Dec 2014_)
 
-# Titulo 1
+## Work Experience:
+- **Pricing/Project Management Supervisor | C.H. Robsinon** (_Feb 2021 - Jan 2023_)
+    
+    * Lead a group of >5 members.
+    * Optimize and deliver positive results to customers and suppliers with our produtcs
+    (Enabling smart B2B and B2C models) with an estimated result of +2M USD in savings for operational costs.
+    * Define, develop and drive transformation accross multiple areas with efficency and
+    efficacy.
+    * Monitoring, evaluation and reporting framework on our product results to executive-level for decision making on organization objectives (2022 objective: 2 billion USD
+    on revenue).
+    * Evaluate progress and scalability of workload within our group. Making the team
+    being able to give service to 6 branches in the Mexican region and +50 branches
+    within the whole division.
+    * Manpower evaluation and hiring process for new employees on our group according
+    to our work plans.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-## Header 2
+- **Project Manager | C.H. Robsinon** (_Jan 2020 - Feb 2021_)
+    
+    * Collaborate with different stakeholders to detect needs and plan accordingly.
+    * Deliver great customer service to our final users in +50 branches within the division.
+    * Monitoring, evaluation and reporting framework on our product progress to my
+    manager.
+
+## Projects: 
+
+**Time series sales forecasting and price simulation project**
+
+### About
 
 > This is a blockquote following a header.
 >
@@ -22,7 +46,7 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 ### Header 3
 
-```js
+```python
 // Javascript code with syntax highlighting.
 var fun = function lang(l) {
   dateformat.i18n = require('./lang/' + l)
@@ -30,12 +54,7 @@ var fun = function lang(l) {
 }
 ```
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+
 
 #### Header 4
 
