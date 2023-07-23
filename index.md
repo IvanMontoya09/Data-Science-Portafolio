@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+# Project Manager | Data Scientist
 
 ### Technical Skills: Python, SQL, Power Bi, AWS
 
@@ -11,7 +12,7 @@ layout: default
 **International business / Trade and Commerce | Universidad Autonóma de Nuevo León** (_Jan 2010 - Dec 2014_)
 
 ## Work Experience:
-- **Pricing/Project Management Supervisor | C.H. Robsinon** (_Feb 2021 - Jan 2023_)
+ Pricing/Project Management Supervisor | C.H. Robsinon (_Feb 2021 - Jan 2023_)
     
     * Lead a group of >5 members.
     * Optimize and deliver positive results to customers and suppliers with our produtcs
@@ -27,7 +28,7 @@ layout: default
     to our work plans.
 
 
-- **Project Manager | C.H. Robsinon** (_Jan 2020 - Feb 2021_)
+ Project Manager | C.H. Robsinon (_Jan 2020 - Feb 2021_)
     
     * Collaborate with different stakeholders to detect needs and plan accordingly.
     * Deliver great customer service to our final users in +50 branches within the division.
@@ -56,60 +57,7 @@ var fun = function lang(l) {
 
 
 
-#### Header 4
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
 
 ### Small image
 
@@ -120,23 +68,3 @@ var fun = function lang(l) {
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
 
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
