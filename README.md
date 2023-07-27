@@ -5,7 +5,7 @@
  
 - **Project Manager | C.H. Robsinon** (_Jan 2020 - Feb 2021_)
 
-# Data Science Project: Time series forecasting and price simulations
+# [Data Science Project: Time series forecasting and price simulations](https://github.com/IvanMontoya09/Time-series-forecasting-and-price-simulations)
 * Created a descriptive analysis tool to help solve or improve business problems on supply chain area (~$2M USD in savings for operational costs).
 * Used historical sales and EWMA(Exponentially Weighted Moving Average) technique with Python.
 * Created valuable features from the dates, sales, stores and family products.
