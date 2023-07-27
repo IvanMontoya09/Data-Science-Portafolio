@@ -6,7 +6,7 @@
 - **Project Manager | C.H. Robsinon** (_Jan 2020 - Feb 2021_)
 
 # Data Science Project: Time series forecasting and price simulations
-* Created a descriptive analysis tool to help solve or improve business problems on supply chain area.
+* Created a descriptive analysis tool to help solve or improve business problems on supply chain area (~$2M USD in savings for operational costs).
 * Used historical sales and EWMA(Exponentially Weighted Moving Average) technique with Python.
 * Created valuable features from the dates, sales, stores and family products.
 * Optimized tuning of predctive model with ParameterGrid to reach the best model.
