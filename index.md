@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# Project Manager | Data Scientist
+# Project Management | Data Scientist
 
 ### Technical Skills: Python, SQL, Power Bi, AWS
 
@@ -37,7 +37,7 @@ layout: default
 
 ## Projects: 
 
-**Time series sales forecasting and price simulation project**
+**Time series sales forecasting with price simulations**
 
 ### About
 
