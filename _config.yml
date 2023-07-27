@@ -1,6 +1,10 @@
+remote_theme: pages-themes/midnight@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+gem "github-pages", group: :jekyll_plugins
 title: Iván Montoya
 logo: /assets/img/foto_perfil.jpeg
-description: 
+description: Student, Data Scientist, Project Manager and Logistics passionate.
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
