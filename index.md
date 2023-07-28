@@ -142,7 +142,8 @@ a_df["precios"] = lista_precios
 ![Simulación de precios](assets/img/SIMULACION_PRECIOS.PNG)
 
 
-## Performance metrics
+### Performance metrics
+
 > To measure the percentage of error on both models, I decided to evaluate them with the following metrics:
 >* MAPE(Mean Absolute Percentage Error) - Calculates the average percentage difference between forecast and actual sales. It measures relative error in percentage terms and is particularly useful when you want to understand the accuracy of the forecast relative to the magnitude of actual sales.
 >* RMSE(Root Mean Square Error) - It is the square root of the average of the squared differences between forecasted and actual sales. Basically the quantity of units the model has predicted wrong.
@@ -152,3 +153,19 @@ a_df["precios"] = lista_precios
 ![RMSE](assets/img/RMSE.PNG)
 
 ![COMPARATIVA](assets/img/COMPARATIVA_METRICAS.PNG)
+
+### Conclusion
+
+>After the evaluation with the metrics, we can conclude the model with the historic sales values has better accuracy on prediction than EWMA technique. However, not because the historic sales it's more accurate we can determinate that EWMA model is wrong, is proved that EWMA technique has beneficts when used on regression models, some of them are: 
+
+>* Sensitivity to recent changes: EWMA gives greater weight to more recent values, which means that it responds quickly to changes in the data. This is especially useful in situations where the data exhibit changing trends or patterns over time. By using the EWMA as the target variable, the model can capture the most recent changes and adjust its predictions accordingly.
+>* Noise smoothing: EWMA also helps to smooth out noise or random fluctuations in the data. By assigning a decreasing weight to prior values, EWMA reduces the impact of outlier or noisy observations, resulting in a smoother, easier-to-interpret signal.
+>* Flexibility in adaptation: EWMA allows adjusting the sensitivity to changes by choosing the weighting factor (alpha). By varying the value of alpha, the degree of adaptation of the moving average to recent changes can be controlled. This provides flexibility to adjust the model according to specific data needs and market conditions.
+>* Simplicity of calculation: The calculation of the EWMA is relatively simple and efficient compared to more complex data smoothing methods. This facilitates its implementation in forecasting models and its integration into data analysis workflows.
+
+>So, I decided bring both models into a descriptive analysis tool in Power Bi, for easier and fast access to users. Also I used the "forecast" function on the tool to compare how accurate is against the model. So far this is the first version of the project, more enhancements will be added. 
+
+![PBi](assets/img/PBI_1.PNG)
+![PBi](assets/img/PBI_2.PNG)
+![PBi](assets/img/PBI_3.PNG)
+![PBi](assets/img/PBI_4.PNG)
