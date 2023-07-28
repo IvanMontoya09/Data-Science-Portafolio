@@ -4,7 +4,7 @@ plugins:
 gem "github-pages", group: :jekyll_plugins
 title: Iván Montoya
 logo: /assets/img/foto_perfil.jpeg
-description: Student, Data Scientist, Project Manager and Logistics passionate.
+description: Student, data scientist, project manager, life learner and logistics passionate.
 show_downloads: false
 google_analytics:
-theme: jekyll-theme-minimal
+
