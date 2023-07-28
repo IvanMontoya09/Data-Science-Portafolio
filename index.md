@@ -147,4 +147,4 @@ a_df["precios"] = lista_precios
 >* MAPE(Mean Absolute Percentage Error) - Calculates the average percentage difference between forecast and actual sales. It measures relative error in percentage terms and is particularly useful when you want to understand the accuracy of the forecast relative to the magnitude of actual sales.
 >* RMSE(Root Mean Square Error) - It is the square root of the average of the squared differences between forecasted and actual sales. Basically the quantity of units the model has predicted wrong.
 
-$MAPE = {1}{n}\sum_{i=1}^\n 100 * | \frac{Yi-Fi}{Yi}$
+$MAPE = {1}{n}\sum_{i=1}^\n 100 *|\frac{Yi-Fi}{Yi}|$
