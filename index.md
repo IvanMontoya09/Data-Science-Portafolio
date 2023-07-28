@@ -150,3 +150,5 @@ a_df["precios"] = lista_precios
 ![MAPE](assets/img/MAPE.PNG)
 
 ![RMSE](assets/img/RMSE.PNG)
+
+![COMPARATIVA](assets/img/COMPARATIVA_METRICAS.PNG)
