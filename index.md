@@ -20,7 +20,7 @@ layout: default
    > * Optimize and deliver positive results to customers and suppliers with our produtcs. (Enabling smart B2B and B2C models) with an estimated result of +2M USD in savings for operational costs.
    > * Define, develop and drive transformation accross multiple areas with efficency and efficacy.
    > * Monitoring, evaluation and reporting framework on our product results to executive-level for decision making on organization objectives (2022 objective: 2 billion USD on revenue).
-   > * Evaluate progress and scalability of workload within our group. Making the team being able to give service to 6 branches in the Mexican region and +50 branches within the whole division.
+   > * Evaluate progress and scalability of workload within our group. Helping the team being able to give service to 6 branches at the Mexican region and +50 branches within the whole division (US & Canada offices).
    > * Manpower evaluation and hiring process for new employees on our group according to our work plans.
 
 
@@ -156,7 +156,7 @@ a_df["precios"] = lista_precios
 
 ### Conclusion
 
->After the evaluation with the metrics, we can conclude the model with the historic sales values has better accuracy on prediction than EWMA technique. However, not because the historic sales it's more accurate we can determinate that EWMA model is wrong, is proved that EWMA technique has beneficts when used on regression models, some of them are: 
+>After the metrics evaluation , we can conclude the model with the historic sales values has better accuracy on prediction than EWMA technique. However, not because the historic sales it's more accurate we can determinate that EWMA model is wrong, is proved that EWMA technique has beneficts when used on regression models, some of them are: 
 
 >* Sensitivity to recent changes: EWMA gives greater weight to more recent values, which means that it responds quickly to changes in the data. This is especially useful in situations where the data exhibit changing trends or patterns over time. By using the EWMA as the target variable, the model can capture the most recent changes and adjust its predictions accordingly.
 >* Noise smoothing: EWMA also helps to smooth out noise or random fluctuations in the data. By assigning a decreasing weight to prior values, EWMA reduces the impact of outlier or noisy observations, resulting in a smoother, easier-to-interpret signal.
