@@ -156,7 +156,7 @@ a_df["precios"] = lista_precios
 
 ### Conclusion
 
->After the metrics evaluation , we can conclude the model with the historic sales values has better accuracy on prediction than EWMA technique. However, not because the historic sales it's more accurate we can determinate that EWMA model is wrong, is proved that EWMA technique has beneficts when used on regression models, some of them are: 
+>After metrics evaluation , we can conclude the model with the historic sales values has better accuracy on prediction than EWMA technique. However, not because the historic sales it's more accurate we can determinate that EWMA model is wrong, is proved that EWMA technique has beneficts when used on regression models, some of them are: 
 
 >* Sensitivity to recent changes: EWMA gives greater weight to more recent values, which means that it responds quickly to changes in the data. This is especially useful in situations where the data exhibit changing trends or patterns over time. By using the EWMA as the target variable, the model can capture the most recent changes and adjust its predictions accordingly.
 >* Noise smoothing: EWMA also helps to smooth out noise or random fluctuations in the data. By assigning a decreasing weight to prior values, EWMA reduces the impact of outlier or noisy observations, resulting in a smoother, easier-to-interpret signal.
